@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T06:49:24.100Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="b8YaxR0rrgaF7i7n3bmt" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T06:49:43.746Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="BWmXR1RNtSo3m5FzL9Dp" version="16.6.1" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="2076" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="1">
       <root>
@@ -118,7 +118,7 @@
         <mxCell id="P2MY6x69WWDnwV6V5oNP-20" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1114" y="1560" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="P2MY6x69WWDnwV6V5oNP-21" value="&lt;font color=&quot;#14ccb4&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;快速初始化&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="P2MY6x69WWDnwV6V5oNP-21" value="&lt;font color=&quot;#14ccb4&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;失效可写&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="480" y="1839" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-24" value="&lt;font color=&quot;#14ccb4&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;文件块级重构/快速初始化&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">

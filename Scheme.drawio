@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T06:50:44.513Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="8ch4MrW1tZtW-_KIkyQs" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T06:51:00.349Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="BcvJxTPdV6YxxUumzHpH" version="16.6.1" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="2076" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="1">
       <root>
@@ -208,7 +208,7 @@
             <mxPoint x="800" y="1770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P2MY6x69WWDnwV6V5oNP-56" value="&lt;font color=&quot;#787878&quot; style=&quot;font-size: 22px&quot;&gt;硬盘故障超过冗余导致的&lt;br&gt;文件失效不影响新文件读写&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;fontFamily=Times New Roman;fontColor=#14CCB4;" vertex="1" parent="1">
+        <mxCell id="P2MY6x69WWDnwV6V5oNP-56" value="&lt;font color=&quot;#787878&quot; style=&quot;font-size: 22px&quot;&gt;故障超过冗余导致的&lt;br&gt;文件失效不影响新文件读写&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;fontFamily=Times New Roman;fontColor=#14CCB4;" vertex="1" parent="1">
           <mxGeometry x="399" y="1880" width="260" height="50" as="geometry" />
         </mxCell>
       </root>

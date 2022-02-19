@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T06:16:10.677Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="RboP_L3jeNyyAHcYxTi1" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T06:20:02.530Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="xUCxPz6hKpB52P84wZu1" version="16.6.1" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="2076" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="1">
       <root>
@@ -159,6 +159,9 @@
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-37" value="&lt;font color=&quot;#787878&quot;&gt;文件系统、raid2.0、&lt;br&gt;网络raid、虚拟存储池&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;fontFamily=Times New Roman;fontColor=#14CCB4;" vertex="1" parent="1">
           <mxGeometry x="700" y="1189" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P2MY6x69WWDnwV6V5oNP-38" value="&lt;font color=&quot;#787878&quot;&gt;支持多副本和N+M&lt;br&gt;的纠删码冗余&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;fontFamily=Times New Roman;fontColor=#14CCB4;" vertex="1" parent="1">
+          <mxGeometry x="249" y="1640" width="214" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

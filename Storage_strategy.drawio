@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T08:04:14.237Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="MMS9B9ZdL8o-J7v_4-yO" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T08:04:33.036Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="tpMlDXPv3cY_w4y8nV7m" version="16.6.1" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="2076" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="300" y="1042" width="160" height="400" as="geometry" />
         </mxCell>
         <mxCell id="VNs2b5MQoNy6hIIXQ_d6-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px&quot;&gt;三副本池&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFE6;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="476" y="1450" width="270" height="60" as="geometry" />
+          <mxGeometry x="476" y="1458" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VNs2b5MQoNy6hIIXQ_d6-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="502" y="1240" width="40" height="50" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="300" y="1450" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VNs2b5MQoNy6hIIXQ_d6-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;EC纠删码池&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5CCFF;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="757" y="1450" width="270" height="60" as="geometry" />
+          <mxGeometry x="757" y="1459" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VNs2b5MQoNy6hIIXQ_d6-29" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="762" y="1230" width="260" height="130" as="geometry" />

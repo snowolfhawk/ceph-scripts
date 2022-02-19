@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T09:00:13.426Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="IZmC2y0TDO5ptpvT6Eb8" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T09:00:30.021Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="lsggvdHbkzU350cn0dk9" version="16.6.1" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1221" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="upi890UawkTOX7c28CoJ-33" value="全局副本池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
+        <mxCell id="upi890UawkTOX7c28CoJ-33" value="全局副本池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" parent="1" vertex="1">
           <mxGeometry x="310" y="1700" width="660" height="150" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-28" value="&lt;span&gt;设备2 EC池&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#CCFFCC;" parent="1" vertex="1">

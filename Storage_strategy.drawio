@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T08:07:36.702Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="seTXIkHHJ9NhnehLl7jJ" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T08:13:14.396Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_xLJuhhMN8-Ur-ovAyAn" version="16.6.1" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="2076" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,10 +74,41 @@
           <mxGeometry x="753" y="1369" width="280" height="75" as="geometry" />
         </mxCell>
         <mxCell id="VNs2b5MQoNy6hIIXQ_d6-42" value="&lt;font color=&quot;#000000&quot;&gt;元数据 |&amp;nbsp;索引文件数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fontSize=24;fontColor=#FFFFFF;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="476" y="1042" width="250" height="60" as="geometry" />
+          <mxGeometry x="480" y="1042" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VNs2b5MQoNy6hIIXQ_d6-43" value="&lt;font color=&quot;#000000&quot;&gt;视频图像数据(&amp;gt;1MB)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fontSize=24;fontColor=#FFFFFF;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="761" y="1042" width="268" height="60" as="geometry" />
+          <mxGeometry x="761" y="1042" width="259" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VNs2b5MQoNy6hIIXQ_d6-44" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=24;fontColor=#000000;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#4C0099;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="545" y="1102" as="sourcePoint" />
+            <mxPoint x="545" y="1231" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNs2b5MQoNy6hIIXQ_d6-45" value="对象属性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" connectable="0" parent="VNs2b5MQoNy6hIIXQ_d6-44">
+          <mxGeometry x="-0.5532" y="2" relative="1" as="geometry">
+            <mxPoint x="-1" y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNs2b5MQoNy6hIIXQ_d6-46" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=24;fontColor=#000000;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#7F00FF;" edge="1" parent="1" source="VNs2b5MQoNy6hIIXQ_d6-42" target="VNs2b5MQoNy6hIIXQ_d6-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="1740" as="sourcePoint" />
+            <mxPoint x="500" y="1690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNs2b5MQoNy6hIIXQ_d6-47" value="小对象" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" connectable="0" parent="VNs2b5MQoNy6hIIXQ_d6-46">
+          <mxGeometry x="-0.3366" y="-2" relative="1" as="geometry">
+            <mxPoint y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNs2b5MQoNy6hIIXQ_d6-48" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=24;fontColor=#000000;strokeColor=#4C0099;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VNs2b5MQoNy6hIIXQ_d6-43" target="VNs2b5MQoNy6hIIXQ_d6-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="1270" as="sourcePoint" />
+            <mxPoint x="1150" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNs2b5MQoNy6hIIXQ_d6-49" value="缓存大对象" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1139" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

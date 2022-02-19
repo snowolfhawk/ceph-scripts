@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T06:48:45.243Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Vv9tm2MKpCeq9hjGnf9M" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T06:49:24.100Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="b8YaxR0rrgaF7i7n3bmt" version="16.6.1" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="2076" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="1">
       <root>
@@ -119,7 +119,7 @@
           <mxGeometry x="1114" y="1560" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-21" value="&lt;font color=&quot;#14ccb4&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;快速初始化&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="484" y="1839" width="100" height="40" as="geometry" />
+          <mxGeometry x="480" y="1839" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-24" value="&lt;font color=&quot;#14ccb4&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;文件块级重构/快速初始化&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="932" y="1880" width="291" height="40" as="geometry" />
@@ -127,8 +127,8 @@
         <mxCell id="P2MY6x69WWDnwV6V5oNP-25" value="&lt;font color=&quot;#14ccb4&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;设备+硬盘容灾&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1156" y="1720" width="154" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P2MY6x69WWDnwV6V5oNP-26" value="&lt;font color=&quot;#787878&quot; style=&quot;font-size: 22px&quot;&gt;只针对实际文件重构&lt;br&gt;已删除文件无需重构&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;fontFamily=Times New Roman;fontColor=#14CCB4;" vertex="1" parent="1">
-          <mxGeometry x="950" y="1920" width="220" height="50" as="geometry" />
+        <mxCell id="P2MY6x69WWDnwV6V5oNP-26" value="&lt;font color=&quot;#787878&quot; style=&quot;font-size: 22px&quot;&gt;只针对实际文件重构&lt;br&gt;已删除文件无需重构&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(120 , 120 , 120) ; font-size: 22px&quot;&gt;初始创建无需同步直接使用&lt;/span&gt;&lt;font color=&quot;#787878&quot; style=&quot;font-size: 22px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;fontFamily=Times New Roman;fontColor=#14CCB4;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1920" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-27" value="&lt;font color=&quot;#14ccb4&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;快速重构&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1246" y="1480" width="154" height="40" as="geometry" />
@@ -207,9 +207,6 @@
             <mxPoint x="750" y="1820" as="sourcePoint" />
             <mxPoint x="800" y="1770" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="P2MY6x69WWDnwV6V5oNP-52" value="&lt;font color=&quot;#787878&quot;&gt;&lt;span style=&quot;font-size: 22px&quot;&gt;初始创建无需同步直接使用&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;fontFamily=Times New Roman;fontColor=#14CCB4;" vertex="1" parent="1">
-          <mxGeometry x="399.5" y="1875" width="284" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

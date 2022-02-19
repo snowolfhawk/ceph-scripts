@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T09:07:28.543Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="DARCFw12UAGhwezXCcqP" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T09:08:48.480Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Q1X2UgxCp2pMraaoGNf4" version="16.6.1" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1221" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -177,12 +177,26 @@
           <mxGeometry x="340" y="1698" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nR141ZKhjrjkwCA01esp-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;视频图像数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fontSize=24;fontColor=#FFFFFF;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="688" y="1698" width="260" height="60" as="geometry" />
+          <mxGeometry x="680" y="1698" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nR141ZKhjrjkwCA01esp-4" value="本地通道数据读写" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="upi890UawkTOX7c28CoJ-10" target="nR141ZKhjrjkwCA01esp-1">
+        <mxCell id="nR141ZKhjrjkwCA01esp-4" value="本地通道读写" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="upi890UawkTOX7c28CoJ-10" target="nR141ZKhjrjkwCA01esp-1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="470" y="1810" as="sourcePoint" />
             <mxPoint x="570" y="2030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nR141ZKhjrjkwCA01esp-6" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="upi890UawkTOX7c28CoJ-28" target="nR141ZKhjrjkwCA01esp-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="800" y="1860" as="sourcePoint" />
+            <mxPoint x="900" y="1760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="1790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nR141ZKhjrjkwCA01esp-7" value="本地通道读写" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="nR141ZKhjrjkwCA01esp-6">
+          <mxGeometry x="-0.0614" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

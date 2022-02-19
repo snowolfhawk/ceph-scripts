@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T06:42:14.697Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="5rcmIxaU2z5GpgVUQ2f7" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T06:42:51.424Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="nBOzuFroLesnZJsPicR-" version="16.6.1" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="2076" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="1">
       <root>
@@ -127,8 +127,8 @@
         <mxCell id="P2MY6x69WWDnwV6V5oNP-25" value="&lt;font color=&quot;#14ccb4&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;设备+硬盘容灾&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1156" y="1720" width="154" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P2MY6x69WWDnwV6V5oNP-26" value="&lt;font color=&quot;#787878&quot; style=&quot;font-size: 22px&quot;&gt;只针对存在的文件重构&lt;br&gt;已删除或不存在文件无需重构&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;fontFamily=Times New Roman;fontColor=#14CCB4;" vertex="1" parent="1">
-          <mxGeometry x="926" y="1920" width="284" height="50" as="geometry" />
+        <mxCell id="P2MY6x69WWDnwV6V5oNP-26" value="&lt;font color=&quot;#787878&quot; style=&quot;font-size: 22px&quot;&gt;只针对实际文件重构&lt;br&gt;已删除文件无需重构&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;fontFamily=Times New Roman;fontColor=#14CCB4;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1920" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-27" value="&lt;font color=&quot;#14ccb4&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;快速重构&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1246" y="1480" width="154" height="40" as="geometry" />

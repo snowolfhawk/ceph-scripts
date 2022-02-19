@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T09:00:30.021Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="lsggvdHbkzU350cn0dk9" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T09:01:41.991Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="gBByg6k4G9A3i4BaYQ1G" version="16.6.1" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1221" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="upi890UawkTOX7c28CoJ-33" value="全局副本池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" parent="1" vertex="1">
-          <mxGeometry x="310" y="1700" width="660" height="150" as="geometry" />
+          <mxGeometry x="310" y="1801" width="660" height="150" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-28" value="&lt;span&gt;设备2 EC池&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="680" y="1710" width="260" height="130" as="geometry" />
+          <mxGeometry x="680" y="1811" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="VNs2b5MQoNy6hIIXQ_d6-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="481" y="1231" width="260" height="130" as="geometry" />
@@ -117,61 +117,67 @@
           <mxGeometry x="830" y="1139" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-10" value="设备1 EC池" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#CCFFE6;" parent="1" vertex="1">
-          <mxGeometry x="340" y="1710" width="260" height="130" as="geometry" />
+          <mxGeometry x="340" y="1811" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1720" width="40" height="50" as="geometry" />
+          <mxGeometry x="360" y="1821" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="416.5" y="1720" width="40" height="50" as="geometry" />
+          <mxGeometry x="416.5" y="1821" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1720" width="40" height="50" as="geometry" />
+          <mxGeometry x="480" y="1821" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="1720" width="40" height="50" as="geometry" />
+          <mxGeometry x="540" y="1821" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1784.75" width="40" height="50" as="geometry" />
+          <mxGeometry x="360" y="1885.75" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="416.5" y="1784.75" width="40" height="50" as="geometry" />
+          <mxGeometry x="416.5" y="1885.75" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1784.75" width="40" height="50" as="geometry" />
+          <mxGeometry x="480" y="1885.75" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-18" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="1784.75" width="40" height="50" as="geometry" />
+          <mxGeometry x="540" y="1885.75" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-20" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="1720" width="40" height="50" as="geometry" />
+          <mxGeometry x="700" y="1821" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-21" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="756.5" y="1720" width="40" height="50" as="geometry" />
+          <mxGeometry x="756.5" y="1821" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="1720" width="40" height="50" as="geometry" />
+          <mxGeometry x="820" y="1821" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="1720" width="40" height="50" as="geometry" />
+          <mxGeometry x="880" y="1821" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-24" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="1784.75" width="40" height="50" as="geometry" />
+          <mxGeometry x="700" y="1885.75" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-25" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="756.5" y="1784.75" width="40" height="50" as="geometry" />
+          <mxGeometry x="756.5" y="1885.75" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-26" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="1784.75" width="40" height="50" as="geometry" />
+          <mxGeometry x="820" y="1885.75" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="1784.75" width="40" height="50" as="geometry" />
+          <mxGeometry x="880" y="1885.75" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-31" value="设备节点1" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="430" y="1859" width="110" height="80" as="geometry" />
+          <mxGeometry x="420" y="1580" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="upi890UawkTOX7c28CoJ-32" value="设备节点2" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="748" y="1859" width="110" height="80" as="geometry" />
+          <mxGeometry x="739" y="1580" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nR141ZKhjrjkwCA01esp-1" value="&lt;font color=&quot;#000000&quot;&gt;录像数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fontSize=24;fontColor=#FFFFFF;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="348" y="1681" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nR141ZKhjrjkwCA01esp-2" value="&lt;font color=&quot;#000000&quot;&gt;录像数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fontSize=24;fontColor=#FFFFFF;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="688" y="1681" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T06:27:55.084Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_EnyxVsTy9KnEoAojNip" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T06:35:14.916Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="JywYiPVjcN_h1O6IPO58" version="16.6.1" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="2076" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="1">
       <root>
@@ -119,28 +119,28 @@
           <mxGeometry x="1114" y="1560" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-21" value="&lt;font color=&quot;#14ccb4&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;快速初始化&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="368" y="1787.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="450" y="1797.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-24" value="&lt;font color=&quot;#14ccb4&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;文件块级重构&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="626" y="1940" width="154" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-25" value="&lt;font color=&quot;#14ccb4&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;设备+硬盘容灾&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="1820" width="154" height="40" as="geometry" />
+          <mxGeometry x="1156" y="1720" width="154" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-26" value="&lt;font color=&quot;#787878&quot; style=&quot;font-size: 22px&quot;&gt;只针对有效文件重构&lt;br&gt;已删除文件无需重构&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;fontFamily=Times New Roman;fontColor=#14CCB4;" vertex="1" parent="1">
           <mxGeometry x="584" y="1990" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-27" value="&lt;font color=&quot;#14ccb4&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;快速重构&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1570" width="154" height="40" as="geometry" />
+          <mxGeometry x="1246" y="1480" width="154" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-28" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1041" y="1360" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-29" value="&lt;font color=&quot;#14ccb4&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;虚拟存储池&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1320" width="154" height="40" as="geometry" />
+          <mxGeometry x="1192" y="1239" width="154" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-30" value="&lt;font color=&quot;#787878&quot; style=&quot;font-size: 22px&quot;&gt;多设备数据全局共享&lt;br style=&quot;font-size: 22px&quot;&gt;虚拟池方便实现视频通道的差异化&lt;br&gt;冗余策略、恢复策略、配额等&lt;br style=&quot;font-size: 22px&quot;&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=22;fontStyle=1;verticalAlign=middle;align=center;shadow=0;fontFamily=Times New Roman;fontColor=#14CCB4;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="1370" width="320" height="80" as="geometry" />
+          <mxGeometry x="1120" y="1279" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-31" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="599" y="1360" width="115" height="115" as="geometry" />
@@ -148,20 +148,23 @@
         <mxCell id="P2MY6x69WWDnwV6V5oNP-32" value="&lt;font color=&quot;#14ccb4&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;失效恢复&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="450" y="1320" width="154" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P2MY6x69WWDnwV6V5oNP-33" value="&lt;font color=&quot;#787878&quot; style=&quot;font-size: 22px&quot;&gt;多盘多设备同事参与重构&lt;br&gt;突破单盘重构瓶颈上限&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;fontFamily=Times New Roman;fontColor=#14CCB4;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1620" width="290" height="50" as="geometry" />
+        <mxCell id="P2MY6x69WWDnwV6V5oNP-33" value="&lt;font color=&quot;#787878&quot; style=&quot;font-size: 22px&quot;&gt;多盘多设备同时参与重构&lt;br&gt;突破单盘重构瓶颈上限&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;fontFamily=Times New Roman;fontColor=#14CCB4;" vertex="1" parent="1">
+          <mxGeometry x="1192" y="1520" width="258" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-34" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="802.5" y="1282.5" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-36" value="&lt;font color=&quot;#14ccb4&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;多功能综合&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1140" width="150" height="40" as="geometry" />
+          <mxGeometry x="776" y="1189" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-37" value="&lt;font color=&quot;#787878&quot; style=&quot;font-size: 22px&quot;&gt;文件系统、raid2.0、&lt;br&gt;网络raid、虚拟存储池之综合&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;fontFamily=Times New Roman;fontColor=#14CCB4;" vertex="1" parent="1">
-          <mxGeometry x="701" y="1189" width="300" height="50" as="geometry" />
+          <mxGeometry x="701" y="1229" width="300" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P2MY6x69WWDnwV6V5oNP-38" value="&lt;font color=&quot;#787878&quot; style=&quot;font-size: 22px&quot;&gt;支持多副本和N+M&lt;br&gt;的纠删码冗余&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;fontFamily=Times New Roman;fontColor=#14CCB4;" vertex="1" parent="1">
           <mxGeometry x="249" y="1640" width="214" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P2MY6x69WWDnwV6V5oNP-43" value="&lt;font color=&quot;#787878&quot; style=&quot;font-size: 22px&quot;&gt;灵活支持设备级和&lt;br&gt;硬盘级容灾模式&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;fontFamily=Times New Roman;fontColor=#14CCB4;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="1760" width="171" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

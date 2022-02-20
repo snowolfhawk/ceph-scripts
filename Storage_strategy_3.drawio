@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T07:05:33.426Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="dnu4M6YchKvKOAI7UFhb" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T07:07:31.264Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="IDv08HF4ln4oXk524M2X" version="16.6.1" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1483" dy="-410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="G_LGBWY3P7igez-pF-BB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
-          <mxGeometry x="310" y="1829" width="660" height="161" as="geometry" />
+        <mxCell id="G_LGBWY3P7igez-pF-BB-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFFF99;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="740" y="1790" width="140" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="G_LGBWY3P7igez-pF-BB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="G_LGBWY3P7igez-pF-BB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFFF99;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="570" y="1790" width="140" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="G_LGBWY3P7igez-pF-BB-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="G_LGBWY3P7igez-pF-BB-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFFF99;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="400" y="1790" width="140" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="G_LGBWY3P7igez-pF-BB-1" value="全局EC&amp;nbsp;存储池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1850" width="660" height="130" as="geometry" />
         </mxCell>
         <mxCell id="G_LGBWY3P7igez-pF-BB-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="416.5" y="1860" width="43.5" height="50" as="geometry" />
@@ -54,9 +57,6 @@
             <mxPoint x="180" y="1760" as="sourcePoint" />
             <mxPoint x="180" y="1840" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="G_LGBWY3P7igez-pF-BB-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="740" y="1790" width="140" height="270" as="geometry" />
         </mxCell>
         <mxCell id="G_LGBWY3P7igez-pF-BB-34" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="1860" width="40" height="50" as="geometry" />

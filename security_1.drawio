@@ -1,4 +1,4 @@
-<mxfile modified="2022-02-28T03:36:31.952Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="odjykPBje4-6-2b9NUak" version="16.6.4" type="github">
+<mxfile modified="2022-02-28T03:37:08.825Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="QbSdfE5Wrc1UKsrZFSaj" version="16.6.4" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1916" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -244,13 +244,13 @@
         <mxCell id="qvTu9epibe-f-Ykjmfbm-170" value="大客户" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/azure_stack/User_Subscriptions.svg;" vertex="1" parent="1">
           <mxGeometry x="40" y="500" width="41.21" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qvTu9epibe-f-Ykjmfbm-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shadow=0;fontSize=10;fontColor=#000000;strokeColor=#0000FF;strokeWidth=1;" edge="1" parent="1" source="qvTu9epibe-f-Ykjmfbm-185" target="qvTu9epibe-f-Ykjmfbm-186">
+        <mxCell id="qvTu9epibe-f-Ykjmfbm-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shadow=0;fontSize=10;fontColor=#000000;strokeColor=#00CC00;strokeWidth=1;" edge="1" parent="1" source="qvTu9epibe-f-Ykjmfbm-185" target="qvTu9epibe-f-Ykjmfbm-186">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qvTu9epibe-f-Ykjmfbm-185" value="Kubelet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="350" y="810" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qvTu9epibe-f-Ykjmfbm-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;strokeColor=#0000FF;strokeWidth=1;" edge="1" parent="1" source="qvTu9epibe-f-Ykjmfbm-186" target="qvTu9epibe-f-Ykjmfbm-277">
+        <mxCell id="qvTu9epibe-f-Ykjmfbm-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;strokeColor=#00CC00;strokeWidth=1;" edge="1" parent="1" source="qvTu9epibe-f-Ykjmfbm-186" target="qvTu9epibe-f-Ykjmfbm-277">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qvTu9epibe-f-Ykjmfbm-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shadow=0;fontSize=10;fontColor=#000000;strokeColor=#00CCCC;strokeWidth=1;" edge="1" parent="1" source="qvTu9epibe-f-Ykjmfbm-186" target="qvTu9epibe-f-Ykjmfbm-243">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T12:20:04.713Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Cd2qVyfYB_fkDg8bC1vY" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T12:20:46.711Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="F4P5-G724rmm_O1asn2j" version="16.6.4" type="github">
   <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
     <mxGraphModel dx="1887" dy="-184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -7,10 +7,10 @@
         <mxCell id="CXl9KmaYjFtn0LYdh_lU-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="320" y="1310" width="620" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="CXl9KmaYjFtn0LYdh_lU-21" value="&lt;font style=&quot;font-size: 15px&quot;&gt;存储节点&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.physical_storage;" parent="1" vertex="1">
+        <mxCell id="CXl9KmaYjFtn0LYdh_lU-21" value="&lt;font style=&quot;font-size: 16px&quot;&gt;存储节点&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.physical_storage;" parent="1" vertex="1">
           <mxGeometry x="382" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CXl9KmaYjFtn0LYdh_lU-23" value="&lt;font style=&quot;font-size: 14px&quot;&gt;存储节点&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.physical_storage;" parent="1" vertex="1">
+        <mxCell id="CXl9KmaYjFtn0LYdh_lU-23" value="&lt;font style=&quot;font-size: 16px&quot;&gt;存储节点&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.physical_storage;" parent="1" vertex="1">
           <mxGeometry x="542" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CXl9KmaYjFtn0LYdh_lU-24" value="..." style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="CXl9KmaYjFtn0LYdh_lU-26" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#009900;strokeColor=#00CC00;strokeWidth=6;" parent="1" vertex="1">
           <mxGeometry x="360" y="1570" width="560" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CXl9KmaYjFtn0LYdh_lU-28" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ff0000&quot;&gt;管理节点&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.physical_storage;" parent="1" vertex="1">
+        <mxCell id="CXl9KmaYjFtn0LYdh_lU-28" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#ff0000&quot;&gt;管理节点&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.physical_storage;" parent="1" vertex="1">
           <mxGeometry x="778.75" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CXl9KmaYjFtn0LYdh_lU-29" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#009900;strokeColor=#00CCCC;strokeWidth=6;" parent="1" vertex="1">

@@ -1,4 +1,4 @@
-<mxfile modified="2022-02-28T03:53:42.178Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="x9OSnLhL8vdNnRIrGSiZ" version="16.6.4" type="github">
+<mxfile modified="2022-02-28T03:53:46.906Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="N0AvB7Xt139UUTTUmZyD" version="16.6.4" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1916" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -250,7 +250,7 @@
         <mxCell id="qvTu9epibe-f-Ykjmfbm-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shadow=0;fontSize=10;fontColor=#000000;strokeColor=#00CC00;strokeWidth=1;" edge="1" parent="1" source="qvTu9epibe-f-Ykjmfbm-185" target="qvTu9epibe-f-Ykjmfbm-186">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qvTu9epibe-f-Ykjmfbm-185" value="Kubelet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="qvTu9epibe-f-Ykjmfbm-185" value="Kubelet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="350" y="810" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qvTu9epibe-f-Ykjmfbm-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;strokeColor=#00CC00;strokeWidth=1;" edge="1" parent="1" source="qvTu9epibe-f-Ykjmfbm-186" target="qvTu9epibe-f-Ykjmfbm-277">

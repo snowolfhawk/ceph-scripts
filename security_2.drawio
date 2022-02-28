@@ -1,4 +1,4 @@
-<mxfile modified="2022-02-28T09:49:06.828Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="-KS4uIBnxwxdSq-haWhu" version="16.6.4" type="github">
+<mxfile modified="2022-02-28T09:49:18.486Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="F0cUJHZEUQvy7KLt8YjL" version="16.6.4" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -103,6 +103,9 @@
         </mxCell>
         <mxCell id="nZ8rrKmMf_ZvrT37WuTN-1056" value="" style="aspect=fixed;html=1;points=[];align=right;image;fontSize=12;image=img/lib/azure2/azure_stack/User_Subscriptions.svg;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="290" y="827" width="40" height="38.83" as="geometry" />
+        </mxCell>
+        <mxCell id="nZ8rrKmMf_ZvrT37WuTN-1064" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Root用户&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="820" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

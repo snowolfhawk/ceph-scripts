@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T09:19:16.462Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="9mg9tz5CjQiucwmxCIV_" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T09:28:23.375Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="VoQ9_Rb0pfz53J-gzuZN" version="16.6.4" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1483" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="417" y="1240" width="120" height="60" as="geometry" />
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1120" width="540" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1420" width="540" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1240" width="500" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-30" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="194" y="670" width="1075" height="300" as="geometry" />
@@ -129,29 +135,32 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="50" y="70" width="1590" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-1" value="文件存储接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="438" y="1260" width="441" height="40" as="geometry" />
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-1" value="文件存储接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="438" y="1260" width="462" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9gsmvQGUKXDNRBUVS-hP-3" value="Storage&amp;nbsp;PAL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="439" y="1160" width="341" height="40" as="geometry" />
+          <mxGeometry x="437" y="1180" width="461" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-4" value="文件/目录映射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-4" value="文件/目录映射" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="438" y="1320" width="122" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-5" value="对象重定向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1320" width="122" height="40" as="geometry" />
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-5" value="对象重定向" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-6" value="集群状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="761.5" y="1320" width="122" height="40" as="geometry" />
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-6" value="集群状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="704.5" y="1320" width="88" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-7" value="对象存储接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="438" y="1440" width="441" height="40" as="geometry" />
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-7" value="对象存储接口(rados)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="451" y="1440" width="441" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-8" value="mon集群监控服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="438" y="1500" width="122" height="40" as="geometry" />
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-8" value="mon集群监控服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="451" y="1500" width="122" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-9" value="osd硬盘读写服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="757" y="1490" width="122" height="40" as="geometry" />
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-9" value="osd硬盘读写服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1490" width="122" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-10" value="缓存管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1320" width="88" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

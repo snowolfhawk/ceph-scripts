@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T02:44:24.058Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ibFdFED8zejjWnwrQO9X" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T02:49:23.976Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="gXZvfgzjgt--J5rnd8hj" version="16.6.4" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="855" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="400" y="1230" width="540" height="170" as="geometry" />
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1150" width="540" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="400" y="1420" width="540" height="140" as="geometry" />
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
+          <mxGeometry x="398" y="1400" width="540" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
-          <mxGeometry x="420" y="1240" width="500" height="140" as="geometry" />
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1260" width="500" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-30" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="194" y="670" width="1075" height="300" as="geometry" />
@@ -136,10 +136,10 @@
           <mxGeometry x="50" y="70" width="1590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9gsmvQGUKXDNRBUVS-hP-1" value="文件存储接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="438" y="1260" width="462" height="40" as="geometry" />
+          <mxGeometry x="438" y="1268" width="462" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-3" value="Storage&amp;nbsp;PAL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="437" y="1180" width="461" height="40" as="geometry" />
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-3" value="Storage&amp;nbsp;PAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
+          <mxGeometry x="438" y="1210" width="460" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9gsmvQGUKXDNRBUVS-hP-4" value="文件/目录映射" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="438" y="1320" width="122" height="40" as="geometry" />
@@ -150,23 +150,23 @@
         <mxCell id="9gsmvQGUKXDNRBUVS-hP-6" value="集群状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="704.5" y="1320" width="88" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-7" value="对象存储接口(rados)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="451" y="1440" width="441" height="40" as="geometry" />
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-7" value="对象存储接口(rados)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="449" y="1410" width="441" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-8" value="mon集群监控服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
-          <mxGeometry x="451" y="1500" width="122" height="40" as="geometry" />
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-8" value="mon集群监控服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="451" y="1460" width="122" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-9" value="osd硬盘读写服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
-          <mxGeometry x="770" y="1490" width="122" height="40" as="geometry" />
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-9" value="osd硬盘读写服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="768" y="1460" width="122" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9gsmvQGUKXDNRBUVS-hP-10" value="缓存管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="810" y="1320" width="88" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rMFWkKAfBQ_fau_hNALP-1" value="接入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="439" y="1120" width="88" height="40" as="geometry" />
+        <mxCell id="rMFWkKAfBQ_fau_hNALP-1" value="接入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="438" y="1160" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rMFWkKAfBQ_fau_hNALP-2" value="转发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="792.5" y="1120" width="88" height="40" as="geometry" />
+        <mxCell id="rMFWkKAfBQ_fau_hNALP-2" value="转发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="812" y="1160" width="88" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

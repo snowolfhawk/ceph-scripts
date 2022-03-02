@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T02:50:38.010Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="B_AGz-Axul0ps8PBpdPH" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T02:52:07.591Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="EBzg1ajAIPQL6i5Kpd2r" version="16.6.4" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="855" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="985" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,10 +153,10 @@
         <mxCell id="9gsmvQGUKXDNRBUVS-hP-7" value="对象存储接口(rados)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="449" y="1410" width="441" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-8" value="mon集群监控服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-8" value="mon(集群监控服务)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="451" y="1460" width="122" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-9" value="osd硬盘读写服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-9" value="osd(硬盘读写服务)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="768" y="1460" width="122" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9gsmvQGUKXDNRBUVS-hP-10" value="缓存管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">

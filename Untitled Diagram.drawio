@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T02:28:19.769Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="kC03-69W9JmwYlthdt7b" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T08:07:38.316Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="QWbxokumqWOvDw62VQfr" version="16.6.6" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1422" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,10 +31,10 @@
         <mxCell id="9gsmvQGUKXDNRBUVS-hP-7" value="对象存储接口(rados)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#0000FF;gradientColor=#ffd966;dashed=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="740" width="441" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-8" value="mon(集群监控服务)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-8" value="MON(集群监控服务)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="932" y="790" width="122" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-9" value="osd(硬盘读写服务)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-9" value="OSD(硬盘读写服务)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="1249" y="790" width="122" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9gsmvQGUKXDNRBUVS-hP-10" value="缓存管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">

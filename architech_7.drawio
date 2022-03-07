@@ -1,30 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T08:15:53.513Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="O6_NJEgHXfN0dRvjiwnr" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T08:16:24.993Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="Nv9rTN2mwQI7qWxN_V_V" version="16.6.6" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
     <mxGraphModel dx="1422" dy="-142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GadBjQE-sX0rK0ryPOzv-1" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;bpmnShapeType=transaction;isLoopSub=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="890" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="GadBjQE-sX0rK0ryPOzv-2" value="arbitrate" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;shape=mxgraph.archimate3.application;archiType=rounded;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1020" width="200" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="GadBjQE-sX0rK0ryPOzv-10" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&#xa;Client" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GadBjQE-sX0rK0ryPOzv-11" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&#xa;Supplier" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GadBjQE-sX0rK0ryPOzv-12" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;" edge="1" source="GadBjQE-sX0rK0ryPOzv-10" target="GadBjQE-sX0rK0ryPOzv-11" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GadBjQE-sX0rK0ryPOzv-13" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=collab;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1200" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="GadBjQE-sX0rK0ryPOzv-14" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=interaction;archiType=rounded;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1180" width="150" height="75" as="geometry" />
-        </mxCell>
         <mxCell id="GadBjQE-sX0rK0ryPOzv-15" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;管理节点&lt;/font&gt;" style="shape=mxgraph.ibm.box;prType=zone;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=#d5e8d4;rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;sketch=0;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="440" y="1600" width="150" height="180" as="geometry" />
         </mxCell>

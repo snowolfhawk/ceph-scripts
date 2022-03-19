@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T10:02:39.588Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="Y1QqXnIzQdhI9QcKCuSh" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T10:02:50.467Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="g-vCNNtmCXYuDqe2kbiy" version="17.1.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-7" value="行为算法包" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-4" vertex="1">
           <mxGeometry x="20" y="120" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="算子发布" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="算子应用发布" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
           <mxGeometry x="170" width="370" height="180" as="geometry">
             <mxRectangle width="370" height="180" as="alternateBounds" />
           </mxGeometry>

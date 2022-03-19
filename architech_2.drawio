@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T11:48:16.898Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="XMO3hc0T0MAg0LLMvUqo" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T11:48:32.897Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="KY4ov-ojKpltM7FuYVvS" version="17.1.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
             <mxPoint x="210" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fMINtGCbqzZVNf0ZRUMN-13" value="&lt;font color=&quot;#ff8000&quot;&gt;新硬件配套变化&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fMINtGCbqzZVNf0ZRUMN-12">
+        <mxCell id="fMINtGCbqzZVNf0ZRUMN-13" value="&lt;font color=&quot;#ff8000&quot;&gt;不同硬件配套&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fMINtGCbqzZVNf0ZRUMN-12">
           <mxGeometry x="-0.5181" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

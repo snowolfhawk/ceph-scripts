@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T10:34:23.069Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="y6telmeocBMBHGQCdp-U" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T10:35:13.711Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="-RG7oCrnwTcZu2mDpXU9" version="17.1.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-9" value="AI异构计算SDK&lt;br&gt;(独立更新)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="3nuBFxr9cyL0pnOWT2aG-8" vertex="1">
           <mxGeometry x="40" y="60" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fMINtGCbqzZVNf0ZRUMN-2" value="行为算法模型&lt;br&gt;(P4&amp;amp;Cuda8.1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-8">
+        <mxCell id="fMINtGCbqzZVNf0ZRUMN-2" value="行为算法模型&lt;br&gt;(新P4&amp;amp;Cuda8.1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-8">
           <mxGeometry x="155" y="130" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-11" value="动态部署&#xa;(可选)" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">

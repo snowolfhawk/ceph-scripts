@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T07:51:29.952Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="x2M_8tznAvRHN-SqJ7Ox" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T07:55:44.136Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="gyjvB1tv8XD932N_3Olr" version="17.1.2" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="1483" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,11 +148,20 @@
             <mxPoint x="550" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XwkSETzzSRvDaptBHPgJ-42" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot; color=&quot;#0000cc&quot;&gt;&lt;b&gt;M种算子&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XwkSETzzSRvDaptBHPgJ-42" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;M种算子&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="515" y="296" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XwkSETzzSRvDaptBHPgJ-43" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot; color=&quot;#0000ff&quot;&gt;&lt;b&gt;N种硬件配套&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="480" width="90" height="20" as="geometry" />
+        <mxCell id="XwkSETzzSRvDaptBHPgJ-43" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;N种硬件配套&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="480" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XwkSETzzSRvDaptBHPgJ-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;fontColor=#0000FF;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="510" as="sourcePoint" />
+            <mxPoint x="550" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XwkSETzzSRvDaptBHPgJ-45" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;N*M种算子版本交付&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="475" y="550" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

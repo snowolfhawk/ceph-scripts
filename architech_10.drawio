@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T05:45:19.410Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="6eU__T2R9RS3Q7cj5b7R" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T05:47:49.220Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="efs9SfD7byCliZE8FdOD" version="17.2.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="641" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="681" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -324,13 +324,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_NhsMUah_G-XtV21Ln71-99" value="&lt;b&gt;Sonia&lt;br&gt;(Client)&lt;/b&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+        <mxCell id="_NhsMUah_G-XtV21Ln71-99" value="&lt;b&gt;Sonia&lt;br&gt;(Client)&lt;/b&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="470" y="1000" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_NhsMUah_G-XtV21Ln71-106" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;" parent="1" source="_NhsMUah_G-XtV21Ln71-100" target="_NhsMUah_G-XtV21Ln71-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_NhsMUah_G-XtV21Ln71-100" value="Mon" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+        <mxCell id="_NhsMUah_G-XtV21Ln71-100" value="Mon" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="640" y="1000" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_NhsMUah_G-XtV21Ln71-117" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=11;strokeColor=#FF8000;strokeWidth=2;" parent="1" source="_NhsMUah_G-XtV21Ln71-103" target="_NhsMUah_G-XtV21Ln71-109" edge="1">
@@ -357,19 +357,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_NhsMUah_G-XtV21Ln71-103" value="OSD.0&lt;br&gt;(&lt;font style=&quot;font-size: 11px&quot;&gt;硬盘0&lt;/font&gt;)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+        <mxCell id="_NhsMUah_G-XtV21Ln71-103" value="OSD.0&lt;br&gt;(&lt;font style=&quot;font-size: 11px&quot;&gt;硬盘0&lt;/font&gt;)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="799" y="919" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_NhsMUah_G-XtV21Ln71-123" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=11;strokeColor=#CC0066;strokeWidth=2;" parent="1" source="_NhsMUah_G-XtV21Ln71-104" target="_NhsMUah_G-XtV21Ln71-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_NhsMUah_G-XtV21Ln71-104" value="OSD.2&lt;br&gt;(&lt;font style=&quot;font-size: 11px&quot;&gt;硬盘2&lt;/font&gt;)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+        <mxCell id="_NhsMUah_G-XtV21Ln71-104" value="OSD.2&lt;br&gt;(&lt;font style=&quot;font-size: 11px&quot;&gt;硬盘2&lt;/font&gt;)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="799" y="1079" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_NhsMUah_G-XtV21Ln71-122" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;strokeColor=#CC0066;strokeWidth=2;" parent="1" source="_NhsMUah_G-XtV21Ln71-109" target="_NhsMUah_G-XtV21Ln71-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_NhsMUah_G-XtV21Ln71-109" value="OSD.1&lt;br&gt;(&lt;font style=&quot;font-size: 11px&quot;&gt;硬盘1&lt;/font&gt;)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+        <mxCell id="_NhsMUah_G-XtV21Ln71-109" value="OSD.1&lt;br&gt;(&lt;font style=&quot;font-size: 11px&quot;&gt;硬盘1&lt;/font&gt;)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="799" y="1000" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_NhsMUah_G-XtV21Ln71-110" value="建立集群链接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">

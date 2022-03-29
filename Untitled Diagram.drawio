@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T08:51:33.893Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="bxTWd78mZmwPQSEpmUUI" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T08:52:23.988Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="VfK0ltpmpAv2dLmLPcWt" version="17.2.4" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="244" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="9gsmvQGUKXDNRBUVS-hP-1" value="文件存储接口(filesystem)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="998" y="750" width="462" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="9gsmvQGUKXDNRBUVS-hP-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Storage&amp;nbsp;PAL&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
+        <mxCell id="9gsmvQGUKXDNRBUVS-hP-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Storage&amp;nbsp;PAL&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;strokeColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="992.5" y="680" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9gsmvQGUKXDNRBUVS-hP-4" value="文件/目录映射" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFFF;strokeColor=#36393d;" parent="1" vertex="1">
@@ -31,10 +31,10 @@
         <mxCell id="9gsmvQGUKXDNRBUVS-hP-10" value="缓存管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFFF;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1370" y="790" width="88" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rMFWkKAfBQ_fau_hNALP-1" value="接入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
+        <mxCell id="rMFWkKAfBQ_fau_hNALP-1" value="接入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;strokeColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="990" y="620" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rMFWkKAfBQ_fau_hNALP-2" value="转发/回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
+        <mxCell id="rMFWkKAfBQ_fau_hNALP-2" value="转发/回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;strokeColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1364.5" y="620" width="88" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rMFWkKAfBQ_fau_hNALP-4" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Sonia应用&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">

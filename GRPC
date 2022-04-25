@@ -3,4 +3,7 @@ https://ackerr.me/2020/09/06/grpc-stream/
 Go gRPC 系列三：流式客户端和服务端
 https://juejin.cn/post/6844903957794390024
 
+GRPC C++ Server端和Client端看起来是调用一样的接口，但是实际接口的实现在Server端
+https://www.cnblogs.com/embedded-linux/p/11787696.html
+
 GRPC流式传输

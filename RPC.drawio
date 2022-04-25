@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T01:30:47.812Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="TwnxJWJkVKYqmNRzhOTo" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T01:32:45.577Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="yaeC9tM7iGLxITp1NKXb" version="17.4.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="850" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SNM08cP9sdIAI4u04yiS-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SNM08cP9sdIAI4u04yiS-2" value="存储SDK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SNM08cP9sdIAI4u04yiS-3" value="RPC Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SNM08cP9sdIAI4u04yiS-4" value="RPC&amp;nbsp;Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

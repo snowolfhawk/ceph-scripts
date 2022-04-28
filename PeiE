@@ -1,3 +1,10 @@
 自动精简配置&配额
 
 http://www.dostor.com/p/9372.html
+
+
+ Common Provisioning Groups
+Overview
+common provisioning group (CPG)生成逻辑盘的虚拟存储池，可以允许虚拟卷共享CPG的资源，按需分配空间。你可以生成 fully-provisioned virtual volumes 和 thinly-provisioned virtual volumes (TPVVs)。
+
+http://www.iplaybit.com/archives/161.html

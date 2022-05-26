@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T09:08:36.935Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="2X7T_Ki-ZpOalScNhX7m" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T09:11:23.575Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="cczCR1Rs9p7JxI4sMZYK" version="18.1.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2310" dy="-342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,10 +187,10 @@
           <mxGeometry x="-543" y="2136" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-171" value="Storage XFS_LTFS Plug" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="1786" width="590" height="40" as="geometry" />
+          <mxGeometry x="-350" y="1786" width="770" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-172" value="Storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="1717" width="590" height="40" as="geometry" />
+          <mxGeometry x="-350" y="1717" width="770" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-173" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-38" y="1827" width="30" height="38" as="geometry" />
@@ -200,6 +200,12 @@
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-177" value="&lt;span style=&quot;&quot;&gt;XFS(HDD)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="-348" y="2079" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HBv_KIM6TfxmHW6eAgdY-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;strokeColor=#000000;" edge="1" parent="1" source="HBv_KIM6TfxmHW6eAgdY-178" target="HBv_KIM6TfxmHW6eAgdY-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HBv_KIM6TfxmHW6eAgdY-178" value="存储管理&lt;br&gt;(挂载/格式化..)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1869" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

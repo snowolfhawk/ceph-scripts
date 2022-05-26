@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T09:14:41.005Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="gJoTVHYkt9ZkeKFNO6Sq" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T09:18:07.047Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="IiX6rOzLVkJGg_lgN9xP" version="18.1.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2310" dy="-342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-360" y="2020" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-98" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="102" y="2020" width="160" height="180" as="geometry" />
+          <mxGeometry x="122" y="2020" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;" edge="1" parent="1" source="HBv_KIM6TfxmHW6eAgdY-91" target="HBv_KIM6TfxmHW6eAgdY-50">
           <mxGeometry relative="1" as="geometry" />
@@ -67,22 +67,22 @@
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-73" value="录像写" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-79" y="1865" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HBv_KIM6TfxmHW6eAgdY-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;strokeColor=#FF0080;" edge="1" parent="1" source="HBv_KIM6TfxmHW6eAgdY-74" target="HBv_KIM6TfxmHW6eAgdY-158">
+        <mxCell id="HBv_KIM6TfxmHW6eAgdY-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;strokeColor=#000000;" edge="1" parent="1" source="HBv_KIM6TfxmHW6eAgdY-181" target="HBv_KIM6TfxmHW6eAgdY-158">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="152" y="1930" />
+              <mxPoint x="380" y="1930" />
               <mxPoint x="-520" y="1930" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-74" value="录像读" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="122" y="1866" width="120" height="40" as="geometry" />
+          <mxGeometry x="142" y="1866" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF0080;" edge="1" parent="1" source="HBv_KIM6TfxmHW6eAgdY-75" target="HBv_KIM6TfxmHW6eAgdY-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-75" value="&lt;span style=&quot;&quot;&gt;XFS(SSD/100GB)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="122" y="2038" width="120" height="20" as="geometry" />
+          <mxGeometry x="142" y="2038" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-86" value="&lt;font color=&quot;#ff0000&quot;&gt;Ping-Pong模式&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-195" y="2079" width="90" height="30" as="geometry" />
@@ -136,7 +136,7 @@
           <mxGeometry x="120" y="2339" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-136" value="&lt;b&gt;读250MB/S&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="182" y="2220" width="90" height="20" as="geometry" />
+          <mxGeometry x="202" y="2220" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-137" value="&lt;b&gt;正常写带宽100MB/S&lt;br&gt;恢复写带宽150MB/s&lt;br&gt;至少两块盘做带宽冗余&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-160" y="1970" width="140" height="40" as="geometry" />
@@ -160,10 +160,10 @@
           <mxGeometry x="-459" y="1939" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-153" value="&lt;b&gt;读250MB/S&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="182" y="1979" width="90" height="20" as="geometry" />
+          <mxGeometry x="202" y="1979" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-154" value="DDR内存缓存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="122" y="2089" width="120" height="20" as="geometry" />
+          <mxGeometry x="142" y="2089" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-157" value="&lt;b&gt;录像/图片打包文件顺序写&amp;lt;=250MB/S&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-273" y="2210" width="180" height="29" as="geometry" />
@@ -187,16 +187,16 @@
           <mxGeometry x="-543" y="2136" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-171" value="Storage XFS_LTFS Plug" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="1786" width="770" height="40" as="geometry" />
+          <mxGeometry x="-350" y="1786" width="950" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-172" value="Storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="1717" width="770" height="40" as="geometry" />
+          <mxGeometry x="-350" y="1717" width="940" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-173" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-38" y="1827" width="30" height="38" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-176" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="165" y="1827" width="30" height="38" as="geometry" />
+          <mxGeometry x="185" y="1827" width="30" height="38" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-177" value="&lt;span style=&quot;&quot;&gt;XFS(HDD)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="-348" y="2079" width="120" height="20" as="geometry" />
@@ -205,7 +205,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-178" value="存储管理&lt;br&gt;(挂载/格式化/异常..)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1869" width="120" height="40" as="geometry" />
+          <mxGeometry x="478" y="1869" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HBv_KIM6TfxmHW6eAgdY-181" value="录像查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1866" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HBv_KIM6TfxmHW6eAgdY-182" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="358" y="1827" width="30" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

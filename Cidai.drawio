@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T08:35:52.104Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="ZwEL_CHzptj4ZdQaE-mf" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T08:37:07.191Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="SG3XjOOz3UtDLMNU0n_p" version="18.1.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2310" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,11 +237,14 @@
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-125" value="&lt;span style=&quot;&quot;&gt;...&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="2339" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HBv_KIM6TfxmHW6eAgdY-136" value="&lt;b&gt;250MB/S&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="2220" width="90" height="20" as="geometry" />
+        <mxCell id="HBv_KIM6TfxmHW6eAgdY-136" value="&lt;b&gt;读250MB/S&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2220" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HBv_KIM6TfxmHW6eAgdY-137" value="&lt;b&gt;正常读/写带宽100MB/S&lt;br&gt;恢复读/写带宽150MB/s&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="1980" width="140" height="30" as="geometry" />
+        <mxCell id="HBv_KIM6TfxmHW6eAgdY-137" value="&lt;b&gt;正常写带宽100MB/S&lt;br&gt;恢复写带宽150MB/s&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1980" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HBv_KIM6TfxmHW6eAgdY-139" value="&lt;b&gt;正常读带宽100MB/S&lt;br&gt;恢复读带宽150MB/s&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="1980" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

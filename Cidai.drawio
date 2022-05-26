@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T09:06:04.303Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="YjxKu23aQMuIdanrqOF_" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T09:07:35.748Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="YQyizj2ZEDKOLozn_le-" version="18.1.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2310" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,7 +154,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-42" value="归档任务线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-348" y="1879" width="120" height="40" as="geometry" />
+          <mxGeometry x="-348" y="1866" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FF0000;" edge="1" parent="1" source="HBv_KIM6TfxmHW6eAgdY-44" target="HBv_KIM6TfxmHW6eAgdY-42">
           <mxGeometry relative="1" as="geometry" />
@@ -187,18 +187,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-73" value="录像写" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-79" y="1878" width="120" height="40" as="geometry" />
+          <mxGeometry x="-79" y="1865" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;strokeColor=#FF0080;" edge="1" parent="1" source="HBv_KIM6TfxmHW6eAgdY-74" target="HBv_KIM6TfxmHW6eAgdY-158">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="152" y="1940" />
-              <mxPoint x="-520" y="1940" />
+              <mxPoint x="152" y="1930" />
+              <mxPoint x="-520" y="1930" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-74" value="录像读" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="122" y="1879" width="120" height="40" as="geometry" />
+          <mxGeometry x="122" y="1866" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF0080;" edge="1" parent="1" source="HBv_KIM6TfxmHW6eAgdY-75" target="HBv_KIM6TfxmHW6eAgdY-74">
           <mxGeometry relative="1" as="geometry" />
@@ -300,19 +300,25 @@
           <mxGeometry x="-557.5" y="2068" width="77.5" height="62" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-163" value="&lt;b&gt;更新&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="1878" width="70" height="20" as="geometry" />
+          <mxGeometry x="-450" y="1867" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-164" value="&lt;b&gt;查询/更新&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-452" y="1919" width="70" height="20" as="geometry" />
+          <mxGeometry x="-452" y="1909" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-170" value="帧索引" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-543" y="2136" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-171" value="Storage XFS_LTFS Plug" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="1799" width="590" height="40" as="geometry" />
+          <mxGeometry x="-350" y="1786" width="590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-172" value="Storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="1730" width="590" height="40" as="geometry" />
+          <mxGeometry x="-350" y="1717" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HBv_KIM6TfxmHW6eAgdY-173" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-38" y="1827" width="30" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="HBv_KIM6TfxmHW6eAgdY-176" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1827" width="30" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

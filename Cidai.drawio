@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T09:13:26.759Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="g-wkzTD_--N4VzfW-o04" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T09:14:41.005Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="gJoTVHYkt9ZkeKFNO6Sq" version="18.1.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2310" dy="-342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,8 +165,8 @@
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-154" value="DDR内存缓存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="122" y="2089" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HBv_KIM6TfxmHW6eAgdY-157" value="&lt;b&gt;写&amp;lt;=250MB/S&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="2220" width="90" height="20" as="geometry" />
+        <mxCell id="HBv_KIM6TfxmHW6eAgdY-157" value="&lt;b&gt;录像/图片打包文件顺序写&amp;lt;=250MB/S&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-273" y="2210" width="180" height="29" as="geometry" />
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-158" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="-600" y="2020" width="160" height="180" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T09:20:37.311Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="XIRlJmSRhAMJu8_Wzwfz" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T09:21:29.783Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="OiPLOyfWtGl4q0UJv7E9" version="18.1.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2310" dy="-342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -212,6 +212,9 @@
         </mxCell>
         <mxCell id="HBv_KIM6TfxmHW6eAgdY-186" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontColor=#FF0000;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="185" y="1827" width="30" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="HBv_KIM6TfxmHW6eAgdY-188" value="&lt;font color=&quot;#ff0000&quot;&gt;异步返回&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="378" y="1839" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T05:47:50.852Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="0gzUFwbtSgJZCHyaZQUN" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T05:49:14.044Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="x5sB2Y4qHNNzsB5ZHQJV" version="18.1.2" type="github">
   <diagram id="u9mpYb1wznzOvv6a-VrT" name="Page-1">
     <mxGraphModel dx="3384" dy="-204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,8 +58,8 @@
         <mxCell id="S_LZaj5Ars5HDmk3X4i3-22" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ff0000&quot;&gt;Ping-Pong模式&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-208" y="2079" width="104" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S_LZaj5Ars5HDmk3X4i3-23" value="&lt;b&gt;磁带库挂在目录&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-192" y="2464" width="90" height="20" as="geometry" />
+        <mxCell id="S_LZaj5Ars5HDmk3X4i3-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;磁带库挂在目录&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="36" y="2464" width="132" height="20" as="geometry" />
         </mxCell>
         <mxCell id="S_LZaj5Ars5HDmk3X4i3-24" value="&lt;span style=&quot;&quot;&gt;LTFS Dir1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="2484" width="120" height="20" as="geometry" />
@@ -215,7 +215,7 @@
         <mxCell id="S_LZaj5Ars5HDmk3X4i3-105" style="edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontColor=#FF3333;strokeColor=#000000;rounded=1;strokeWidth=2;" edge="1" parent="1" source="S_LZaj5Ars5HDmk3X4i3-70" target="S_LZaj5Ars5HDmk3X4i3-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S_LZaj5Ars5HDmk3X4i3-70" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;第三方归档软件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="S_LZaj5Ars5HDmk3X4i3-70" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;第三方归档软件(读写)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-440" y="2361" width="1080" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S_LZaj5Ars5HDmk3X4i3-72" value="平台" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T05:53:38.909Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="dxGG0VBmCKESmNoAxRU1" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T05:53:51.381Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="wd9LsoX5EO6i_sp26oWP" version="18.1.2" type="github">
   <diagram id="u9mpYb1wznzOvv6a-VrT" name="Page-1">
     <mxGraphModel dx="3384" dy="-204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -180,7 +180,7 @@
         <mxCell id="S_LZaj5Ars5HDmk3X4i3-60" value="&lt;span style=&quot;&quot;&gt;XFS(HDD)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="-357" y="2098" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="S_LZaj5Ars5HDmk3X4i3-62" value="存储管理&lt;br&gt;(挂载/格式化..)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="S_LZaj5Ars5HDmk3X4i3-62" value="存储管理&lt;br&gt;(挂载/格式化..)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="469" y="1868" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S_LZaj5Ars5HDmk3X4i3-63" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;录像查询&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
@@ -275,7 +275,7 @@
             <mxPoint x="133" y="2590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S_LZaj5Ars5HDmk3X4i3-124" value="设备管理&lt;br&gt;(切带/换带/异常..)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="S_LZaj5Ars5HDmk3X4i3-124" value="设备管理&lt;br&gt;(切带/换带/异常..)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="620" y="1867" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S_LZaj5Ars5HDmk3X4i3-126" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">

@@ -20,3 +20,12 @@ http://liujunming.top/
 
 k8s prometheus
 https://cloud.tencent.com/developer/article/1780158
+
+
+除了 ftrace，我们还可以使用 Perf probe -x 动态跟踪点是一种可观察性功能，可实现以下功能：甚至不需要重新编译就可以插装源代码的任意行。 有了程序源代码的副本，跟踪点可以在运行时放置在任何地方，并且每个变量的值都可以转储时间执行通过跟踪点。 这是一项非常强大的技术，用于检测其他人编写的复杂系统或代码。
+
+perf probe -x /lib/libc.so.6 memcpy
+perf record -e probe_libc:memcpy -aR ls
+perf report
+https://www.systutorials.com/docs/linux/man/1-perf-probe/
+http://hustcat.github.io/perf-trace-and-perf-probe/#:~:text=perf-probe%20%E5%8F%AF%E4%BB%A5%E5%88%9B%E5%BB%BA%20dynamic%20tracepoints%20%EF%BC%8C%E5%9C%A8kernel%20debuginfo%E7%9A%84%E5%B8%AE%E5%8A%A9%E4%B8%8B%EF%BC%8C%E5%8F%AF%E4%BB%A5%E5%AE%9E%E7%8E%B0%20%E5%86%85%E6%A0%B8%E4%BB%A3%E7%A0%81%E8%A1%8C%E7%BA%A7,%E5%8A%A8%E6%80%81%E8%B7%9F%E8%B8%AA%E3%80%82%20%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%20-nv%20%E6%9F%A5%E7%9C%8B%20perf%20probe%20%E5%91%BD%E4%BB%A4%E7%9A%84%E6%95%88%E6%9E%9C%20%28%E4%B8%8D%E4%BC%9A%E6%89%A7%E8%A1%8C%29%EF%BC%9A

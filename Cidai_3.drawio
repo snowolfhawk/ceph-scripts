@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T01:17:41.579Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="rB9VESviv7YgKZyhiG-5" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-21T01:17:55.612Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ko92FDUQPXf3ot-G3pEW" version="20.0.1" type="github" pages="2">
   <diagram id="u9mpYb1wznzOvv6a-VrT" name="Page-1">
     <mxGraphModel dx="2903" dy="-11" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -636,6 +636,14 @@
         </mxCell>
         <mxCell id="RM6sC363fQJOxi_IVBZ0-94" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;正常状态、异常通知、运维管理&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="1959" width="213.5" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="RM6sC363fQJOxi_IVBZ0-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RM6sC363fQJOxi_IVBZ0-95" target="RM6sC363fQJOxi_IVBZ0-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-255" y="2070" />
+              <mxPoint x="140" y="2070" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="RM6sC363fQJOxi_IVBZ0-95" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;归档Client&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1BA1E2;gradientColor=none;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-315" y="1999" width="120" height="40" as="geometry" />

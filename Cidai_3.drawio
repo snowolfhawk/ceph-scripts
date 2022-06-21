@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T01:21:31.577Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="CTeO8l-Vacl1jPn2-hTi" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-21T01:21:50.012Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="qg549EVTT8cfFMcC4i6K" version="20.0.1" type="github" pages="2">
   <diagram id="u9mpYb1wznzOvv6a-VrT" name="Page-1">
     <mxGraphModel dx="2903" dy="-11" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -627,7 +627,7 @@
         <mxCell id="RM6sC363fQJOxi_IVBZ0-93" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;应用&lt;br&gt;(接入拉流、录像计划/查询回放、本地运维、磁带库运维、&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;异常补录&lt;/b&gt;&lt;/font&gt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="-758" y="1360" width="1520" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RM6sC363fQJOxi_IVBZ0-94" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;正常状态、异常通知、运维管理&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RM6sC363fQJOxi_IVBZ0-94" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;正常状态、异常通知、运维管理&lt;br&gt;(Restful/SNMP)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="1959" width="213.5" height="29" as="geometry" />
         </mxCell>
         <mxCell id="RM6sC363fQJOxi_IVBZ0-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RM6sC363fQJOxi_IVBZ0-95" target="RM6sC363fQJOxi_IVBZ0-66">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T01:20:58.884Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="8Da059EsAlZMV7DxJ9Ou" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-21T01:21:08.577Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="UfFRk83PaNlWqY8kR1tO" version="20.0.1" type="github" pages="2">
   <diagram id="u9mpYb1wznzOvv6a-VrT" name="Page-1">
     <mxGraphModel dx="2903" dy="-11" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -536,7 +536,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RM6sC363fQJOxi_IVBZ0-66" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;第三方归档软件&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#000000&quot;&gt;(备份归档/回读、存储管理(挂载/格式化等)、设备管理(切换带、异常等运维管理))&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RM6sC363fQJOxi_IVBZ0-66" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;第三方归档软件&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#000000&quot;&gt;(备份归档/回读、存储管理(挂载/格式化等)、设备管理(切换带、异常等运维管理))&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="-400" y="2120" width="1080" height="59" as="geometry" />
         </mxCell>
         <mxCell id="RM6sC363fQJOxi_IVBZ0-67" value="平台" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">

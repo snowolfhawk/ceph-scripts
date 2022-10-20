@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T01:14:22.802Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8kALaw0oHX49bBq173LK" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T01:27:11.884Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VeGrEdFB9aFxBPvaHWuU" version="20.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="m1yB8VaNzLGdRQ7UP5lw-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="110" width="760" height="410" as="geometry" />
+          <mxGeometry x="90" y="10" width="760" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m1yB8VaNzLGdRQ7UP5lw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="348" width="110" height="70" as="geometry" />
@@ -118,6 +118,15 @@
         </mxCell>
         <mxCell id="m1yB8VaNzLGdRQ7UP5lw-35" value="&lt;font face=&quot;Lucida Console&quot; color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;128次RPC写/秒&lt;br&gt;(接入512路*2Mbs)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="378" width="134" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="m1yB8VaNzLGdRQ7UP5lw-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="520" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="m1yB8VaNzLGdRQ7UP5lw-37" value="&lt;code style=&quot;text-align: left; margin: 0px !important; padding: 0px !important; font-family: Consolas, &amp;quot;Bitstream Vera Sans Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace !important; border-radius: 0px !important; background: none !important; border: 0px !important; inset: auto !important; float: none !important; height: auto !important; line-height: 1.8em !important; outline: 0px !important; overflow: visible !important; position: static !important; vertical-align: baseline !important; width: auto !important; box-sizing: content-box !important; font-weight: bold !important; min-height: auto !important; color: rgb(255, 20, 147) !important;&quot; class=&quot;cpp functions bold&quot;&gt;signal&lt;/code&gt;&lt;code style=&quot;text-align: left; margin: 0px !important; padding: 0px !important; font-family: Consolas, &amp;quot;Bitstream Vera Sans Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace !important; border-radius: 0px !important; background: none !important; border: 0px !important; inset: auto !important; float: none !important; height: auto !important; line-height: 1.8em !important; outline: 0px !important; overflow: visible !important; position: static !important; vertical-align: baseline !important; width: auto !important; box-sizing: content-box !important; min-height: auto !important;&quot; class=&quot;cpp plain&quot;&gt;(SIGUSRx, coredumpHandler)&lt;/code&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFFF;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="520" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m1yB8VaNzLGdRQ7UP5lw-39" value="&lt;font face=&quot;Lucida Console&quot;&gt;fork()-----&amp;gt;子进程-----&amp;gt;abort()&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFCCCC;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="560" width="250" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
